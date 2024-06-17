@@ -1,0 +1,12 @@
+=================
+=== Receipt ====
+=================
+Name: Suren
+Package Info: A
+Total: RM700.00
+=================
+=== Receipt ====
+=================
+Name: Stephanie
+Package Info: B
+Total: RM750.00
